@@ -1,9 +1,9 @@
 {
-  "name": "lost-blog",
+  "name": "blog-ping",
   "version": "1.0.0",
   "description": "Blog website project ",
   "main": "index.js",
-  "author": "Vidhu Prakash",
+  "author": "Priya Barai",
   "license": "MIT",
   "type": "module",
   "scripts": {

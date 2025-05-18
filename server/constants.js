@@ -1,1 +1,1 @@
-export const  DB_NAME =   "lost-blog"
+export const  DB_NAME =   "Blog Ping"

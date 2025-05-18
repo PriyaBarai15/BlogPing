@@ -1,4 +1,4 @@
-# lost-blog
+# Blog Ping
 
 A modern blog web application built using the MERN stack, providing a seamless and user-friendly experience for creating, reading, and managing blog posts. It includes features like JWT-based authentication, image hosting with Cloudinary, and automatic blog post summarization using Google's Gemini API.
 
@@ -109,8 +109,8 @@ A modern blog web application built using the MERN stack, providing a seamless a
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Vidhu-dev/lost-blog.git
-   cd lost-blog
+   git clone https://github.com/PriyaBarai15/BlogPing
+   cd BlogPing
    ```
 2. Navigate to the server folder
    ```bash
